@@ -17,7 +17,6 @@ A simple, no-frills diagnostic tool for FrSky Ethos radios. This widget displays
    - Path should look like: SD Card/scripts/sizechk/main.lua
 5. Eject the radio and let Ethos start.
 6. Add the Widget:
-   - Go to a telemetry screen.
    - Configure a new widget.
    - Select "Size Check" from the list.
 
