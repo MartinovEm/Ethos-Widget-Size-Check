@@ -13,8 +13,8 @@ A simple, no-frills diagnostic tool for FrSky Ethos radios. This widget displays
 1. Download the main.lua file from this repository.
 2. Connect your radio to your computer via USB (Suite/Bootloader mode).
 3. Navigate to the SD Card or RADIO drive of your radio.
-4. Create a folder named sizechk inside the /scripts/ directory.
-   - Path should look like: SD Card/scripts/sizechk/main.lua
+4. Create a folder named **sizechk** inside the /scripts/ directory.
+   - Path should look like: `RADIO:/scripts/sizechk/main.lua`
 5. Eject the radio and let Ethos start.
 6. Add the Widget:
    - Configure a new widget.
